@@ -37,6 +37,20 @@
           "ckpt_path": "/kaggle/working/cub200_workdir/best_mobile_proto_cub200_84px_seed3_5shot.pth"
         }
       }
+    },
+    "224": {
+      "1": {
+        "1": {
+          "mean_acc": 0.8456000222563743,
+          "ci95": 0.008490044261933052,
+          "ckpt_path": "/kaggle/working/cub200_workdir/best_mobile_proto_cub200_224px_seed1_1shot.pth"
+        },
+        "5": {
+          "mean_acc": 0.9455200225114823,
+          "ci95": 0.004752331089649555,
+          "ckpt_path": "/kaggle/working/cub200_workdir/best_mobile_proto_cub200_224px_seed1_5shot.pth"
+        }
+      }
     }
   },
   "matched": {}
