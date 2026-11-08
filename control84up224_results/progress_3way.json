@@ -5,12 +5,12 @@
         "1": {
           "mean_acc": 0.6505066795945168,
           "ci95": 0.01021563058212104,
-          "ckpt_path": "/content/cub200_small_3way_workdir/best_mobile_proto_cub200_small_84px_seed1_1shot.pth"
+          "ckpt_path": "/kaggle/working/cub200_small_3way_workdir/best_mobile_proto_cub200_small_84px_seed1_1shot.pth"
         },
         "5": {
           "mean_acc": 0.820773353099823,
           "ci95": 0.007049864614463261,
-          "ckpt_path": "/content/cub200_small_3way_workdir/best_mobile_proto_cub200_small_84px_seed1_5shot.pth"
+          "ckpt_path": "/kaggle/working/cub200_small_3way_workdir/best_mobile_proto_cub200_small_84px_seed1_5shot.pth"
         }
       }
     },
@@ -19,12 +19,12 @@
         "1": {
           "mean_acc": 0.786506685078144,
           "ci95": 0.009096792260428317,
-          "ckpt_path": "/content/cub200_small_3way_workdir/best_mobile_proto_cub200_small_84up224_seed1_1shot.pth"
+          "ckpt_path": "/kaggle/working/cub200_small_3way_workdir/best_mobile_proto_cub200_small_84up224_seed1_1shot.pth"
         },
         "5": {
           "mean_acc": 0.914720023393631,
           "ci95": 0.005457699435116965,
-          "ckpt_path": "/content/cub200_small_3way_workdir/best_mobile_proto_cub200_small_84up224_seed1_5shot.pth"
+          "ckpt_path": "/kaggle/working/cub200_small_3way_workdir/best_mobile_proto_cub200_small_84up224_seed1_5shot.pth"
         }
       }
     },
@@ -33,12 +33,12 @@
         "1": {
           "mean_acc": 0.7961866845488548,
           "ci95": 0.00925254406043511,
-          "ckpt_path": "/content/cub200_small_3way_workdir/best_mobile_proto_cub200_small_224px_seed1_1shot.pth"
+          "ckpt_path": "/kaggle/working/cub200_small_3way_workdir/best_mobile_proto_cub200_small_224px_seed1_1shot.pth"
         },
         "5": {
           "mean_acc": 0.9244000228643418,
           "ci95": 0.005546808567479009,
-          "ckpt_path": "/content/cub200_small_3way_workdir/best_mobile_proto_cub200_small_224px_seed1_5shot.pth"
+          "ckpt_path": "/kaggle/working/cub200_small_3way_workdir/best_mobile_proto_cub200_small_224px_seed1_5shot.pth"
         }
       }
     }
